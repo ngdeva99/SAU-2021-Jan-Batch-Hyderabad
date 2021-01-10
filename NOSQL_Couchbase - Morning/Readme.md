@@ -1,2 +1,2 @@
 
-Q1 - import travel-sample bucket
+Q1 - imported travel-sample bucket
